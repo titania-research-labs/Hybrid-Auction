@@ -1,0 +1,29 @@
+{
+  "biggest_tob": {
+    "block_hash": "0x307e17fdc511c82d16705d781b709e4c7f447b8a02b0b1ba36dfe4c321b002ae",
+    "profit": 12944485147622692,
+    "revert_count": 0
+  },
+  "biggest_rob": {
+    "block_hash": "0xa10d1552c8ca78a571022255f8346c63bbb6cad418231a4292517b753178685e",
+    "profit": 31039856789108117,
+    "revert_count": 8
+  },
+  "best_combined_same_block": {
+    "block_hash": "0xa10d1552c8ca78a571022255f8346c63bbb6cad418231a4292517b753178685e",
+    "total_profit": 43580258225398843,
+    "tob_profit": 12540401436290726,
+    "rob_profit": 31039856789108117,
+    "revert_count": 8
+  },
+  "best_combined_different_blocks": {
+    "tob_block_hash": "0x307e17fdc511c82d16705d781b709e4c7f447b8a02b0b1ba36dfe4c321b002ae",
+    "rob_block_hash": "0xa10d1552c8ca78a571022255f8346c63bbb6cad418231a4292517b753178685e",
+    "total_profit": 43984341936730809,
+    "tob_profit": 12944485147622692,
+    "rob_profit": 31039856789108117,
+    "tob_revert_count": 0,
+    "rob_revert_count": 8
+  },
+  "total_blocks_analyzed": 23
+}
