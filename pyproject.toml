@@ -1,0 +1,13 @@
+[project]
+name = "hybrid-auction-pbs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.10.10",
+    "asyncio>=3.4.3",
+    "logging>=0.4.9.6",
+    "requests>=2.32.3",
+    "web3>=7.4.0",
+]
